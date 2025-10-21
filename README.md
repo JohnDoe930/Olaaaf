@@ -69,7 +69,7 @@ As of right now, four examples are availabe for you to go through. Namely:
 
 The execution of Example 3 can be watched in this video:
 
-https://github.com/user-attachments/assets/dcad41a8-209d-4b21-b480-573556292dbe
+https://github.com/user-attachments/assets/c5b14cc7-3b44-401b-bc22-4ac3d77b5d9b
 
 ## Documentation
 
